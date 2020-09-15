@@ -5,3 +5,13 @@ body{
 div{
     border:dotted blue;
 }
+
+div div{
+    background:white;
+    width:400px;
+    
+}
+p{
+    color:black
+
+}
