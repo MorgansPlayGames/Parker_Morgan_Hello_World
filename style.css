@@ -1,17 +1,23 @@
 body{
-    background:blueviolet;
+    background:#2f233a;
+}
+
+h1{
+    size:30px;
+    color:burlywood;
 }
 
 div{
-    border:dotted blue;
+    background-color:black;
 }
 
 div div{
-    background:white;
+    background:rgb(173, 48, 48);
     width:400px;
+    border:line #67677d;
     
 }
 p{
-    color:black
+    color:rgb(70, 0, 12);
 
 }
